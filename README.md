@@ -1,1 +1,1 @@
-download the file and see de documentation "DBMSs Project"
+download the file and see the documentation "DBMSs Project"
